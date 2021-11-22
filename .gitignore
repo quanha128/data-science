@@ -1,0 +1,41 @@
+*.*
+# /*
+!*.ml
+!*.csv
+!*.ipynb
+!*.c
+!*.h
+!*.txt
+!*.py
+!*.mll
+!*.mli
+!*.mly
+!*.edgelist
+!*.java
+!*.cpp
+!*.go
+!*.md
+!*.php
+!*.js
+!*.css
+
+**/venv/
+**/mtk3_sim/
+**/go/
+
+# **/.vscode
+# **/venv
+# **/*.identifier
+# **/*.cmi
+# **/*.cmo
+# **/*.omakedb
+# **/*.omakedb.lock
+# **/*.out
+# **/*.cmx
+# **/*.o
+# **/*.omc
+# **/*.opt
+# **/*.run
+# **/*.conflicts
+
+!.gitignore
